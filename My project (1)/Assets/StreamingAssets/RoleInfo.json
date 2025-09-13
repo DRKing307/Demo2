@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/1","atk":2,"tips":"帅气的男人","lockMoney":0,"type":1,"hitEff":"eff/1"},
+{"id":2,"res":"Role/2","atk":3,"tips":"温柔的男人","lockMoney":0,"type":2,"hitEff":"eff/1"},
+{"id":3,"res":"Role/3","atk":4,"tips":"凶猛的男人","lockMoney":200,"type":2,"hitEff":"eff/1"},
+{"id":4,"res":"Role/4","atk":5,"tips":"可爱的男人","lockMoney":200,"type":2,"hitEff":"eff/1"},
+{"id":5,"res":"Role/5","atk":6,"tips":"怪异的男人","lockMoney":200,"type":2,"hitEff":"eff/1"},
+{"id":6,"res":"Role/6","atk":7,"tips":"最强的男人","lockMoney":200,"type":2,"hitEff":"eff/1"}
+]
